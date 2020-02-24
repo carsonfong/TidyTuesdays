@@ -1,3 +1,3 @@
 My TidyTuesday work
 
-[Week 4](https://github.com/sarahsauve/TidyTuesdays/blob/master/Week4_2020.Rmd)
+[Week 4](https://github.com/sarahsauve/TidyTuesdays/blob/gh-pages/Week4_2020_mdgithuboutput.md)
