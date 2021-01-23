@@ -753,7 +753,7 @@ very large tables like this one.
       },
       rownames = FALSE)
 
-WHen it’s all put together, it looks like
+When it’s all put together, it looks like
 [this](https://sarahsauve.shinyapps.io/TidyTuesdayBrandAuditDashboard/)!
 You can find the code and data on GitHub
 [here](https://github.com/sarahsauve/TidyTuesdays/tree/master/BFFPDashboard).
